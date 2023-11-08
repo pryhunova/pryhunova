@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Natalie Pryhunova
 
 Passionate and detail-oriented Frontend Developer | Hillel IT School Graduate
-/br 🚀 Aspiring Frontend Developer with expertise in HTML, CSS, JavaScript, and React, ready to contribute to innovative projects.
-/br 🌟 My goal is to join a forward-thinking company where I can leverage my skills to create user-friendly applications that enhance both business and daily life.
+🚀 Aspiring Frontend Developer with expertise in HTML, CSS, JavaScript, and React, ready to contribute to innovative projects.
+🌟 My goal is to join a forward-thinking company where I can leverage my skills to create user-friendly applications that enhance both business and daily life.
 
 Let's connect and explore how we can collaborate for success!
 =========================================================================================================================================
