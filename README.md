@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Natalie Pryhunova
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natalie Pryhunova
 Passionate and detail-oriented Frontend Developer | Hillel IT School Graduate
 🚀 Aspiring Frontend Developer with expertise in HTML, CSS, JavaScript, and React, ready to contribute to innovative projects.
 🌟 My goal is to join a forward-thinking company where I can leverage my skills to create user-friendly applications that enhance both business and daily life.
