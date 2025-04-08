@@ -10,7 +10,7 @@ Let's connect and explore how we can collaborate for success!
 Frontend Developer
 ------------------
 
-*   ✉️  You can contact me at https://t.me/npryhunova
+*   ✉️  You can contact me at <a href="https://t.me/npryhunova">telegram</a>
 
 ### Skills 
 <p align="left">
