@@ -10,7 +10,7 @@ Let's connect and explore how we can collaborate for success!
 Frontend Developer
 ------------------
 
-*   ✉️  You can contact me at [prygunova@gmail.com](mailto:prygunova@gmail.com)
+*   ✉️  You can contact me at https://t.me/npryhunova
 
 ### Skills 
 <p align="left">
